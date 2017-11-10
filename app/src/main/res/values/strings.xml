@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Reddit Demo App</string>
+    <string name="nothing_show">Image is not available</string>
+    <string name="permission_explonation">You should grant this permission to allow saving an image to external storage of your device</string>
+    <string name="grant">Grant</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_permission_dialog">Storage Permission</string>
+    <string name="download_msg">Downloading&#8230;</string>
+    <string name="unable_get_permission">Unable to get Permission</string>
+    <string name="done">Done</string>
+    <string name="author">Author</string>
+    <string name="comments">Comments</string>
+    <string name="saved">Saved</string>
+</resources>
