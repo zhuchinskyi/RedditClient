@@ -1,3 +1,3 @@
 # Reddit Client
 
-Simple app which load Reddit feed
+Simple app which loads Reddit feed
